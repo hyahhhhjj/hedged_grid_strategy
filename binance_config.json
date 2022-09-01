@@ -1,0 +1,17 @@
+{
+  "platform": "binance_spot",
+  "symbol": "ETHUSDT",
+  "key": "",
+  "secret": "",
+  "min_price": 0.01,
+  "min_qty": 0.0001,
+  "min_trade": 10.0,
+  "max_orders": 1,
+  "proxy_host": "",
+  "proxy_port": 0,
+  "high_bound": 1452.00,
+  "low_bound": 900.00,
+  "grid_number": 15,
+  "hedge": true,
+  "hedge_mode": "full"
+}
